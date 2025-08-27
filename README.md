@@ -3,7 +3,7 @@
 
 <p><em>🎓MS Graduate at <a href="http://le.ac.uk">University of Leicester</a> | <img align="center" src="https://komarev.com/ghpvc/?username=tejachowdary27&label=Profile%20views&color=0e75b6&style=flat" alt="tejachowdary27"/> </b></em></p>
 
-<p align="left"><em>💼Database Administrator | SQL Developer | Aspiring Data & AI Consultant </em></p>
+<p align="left"><em>💼Database Administrator | SQL Developer | Data & AI Consultant </em></p>
 
 <p>🌟I'm all about making new connections! So if you want to say hi, let’s connect & see where it takes us! 
 <a href="https://linkedin.com/in/tejachowdaryinturi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejachowdaryinturi" height="20" width="20" /></a>
@@ -15,7 +15,7 @@
 ### A bit more about me...  
 
 - 💡 Currently diving into SAS, digging into advanced Machine Learning, AI models, automation strategies, AI-powered analytics, and cloud stuff.
-- 🤝 Open to collaborating on Data Science projects, AI analytics, cloud databases, and I'm always up for mentoring in Math, Comp Sci, and Management.
+- 🤝 Open to collaborating on Data Science projects, AI analytics, cloud databases, and I'm always up for mentoring in Math, Comp Science, and Management.
 - 🌱 Currently hands-on with: Scaling data pipelines and fine-tuning SQL for peak performance.  
 - 💬 Ask me about: SQL tricks, Cloud moves, PL/SQL, Python (Pandas, NumPy, Scikit-learn), Machine Learning (ARIMA, SARIMA, LSTM), Time-Series Forecasting, and geeking out on Linux Shell.
 - 🛠️ Skills & Technologies I Use:
